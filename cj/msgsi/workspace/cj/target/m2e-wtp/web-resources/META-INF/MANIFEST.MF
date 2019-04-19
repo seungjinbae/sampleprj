@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cj
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenovo
+Implementation-Vendor-Id: com.cj
+Build-Jdk: 1.8.0_201-1-ojdkbuild
+Implementation-URL: https://projects.spring.io/spring-boot/cj/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
